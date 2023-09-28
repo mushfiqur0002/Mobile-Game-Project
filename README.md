@@ -4,10 +4,17 @@
 - Method Rapid Prototyping
 
 # Research & Design
-## Image Reference: doodle jump
+## Game 1: doodle jump
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/f693eff2-70aa-4835-8570-72a57c6fc1f3)
 
-# 
+## Game 2: Super rub a dub
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6b33162c-eb60-4831-91b1-6237a0d541b4)
+
+
+# Development
+## Week 1
+Researching popular mobile games and mechanics only available on smartphones. 
+## Week 1
 
 
 ## References
