@@ -1,21 +1,30 @@
 # Mobile Game Project
 
 # Introduction
-- Method Rapid Prototyping
+For this project, the Rapid Prototyping methodology will be used, to create a quick protype of the game to visualise simple mechainc and features,
+in order to judge the vaiability of the game. 
 
-# Research & Design
+# Week 1
+Researching popular mobile games. 
+# Week 2
+
+## Research
 ## Game 1: doodle jump
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/f693eff2-70aa-4835-8570-72a57c6fc1f3)
+doodle jump is classic game, very famous with simple mechanic but very addictive. Requires minimum effort from the user to play it.
+Unfortunatly it doesn't have unique mechaniques that applicable for mobilephones.
+Remaking this game with my out twist, it will involve re-designing the gameplay by adding some unique features that benefit from the mobile phone hardware. 
 
 ## Game 2: Super rub a dub
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6b33162c-eb60-4831-91b1-6237a0d541b4)
+Super rub a dub also another popular game but on console,
 
+# Week 3
 
-# Development
-## Week 1
-Researching popular mobile games and mechanics only available on smartphones. 
-## Week 1
+## Design
 
+## Development
+Start of protyping
 
 ## References
 - https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
