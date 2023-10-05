@@ -21,12 +21,19 @@ Super rub a dub also another popular game but on console, The plader has to use 
 A remake will require, a new theme with funny and interactive mechanics to revamp this type of gameplay.
 
 # Week 3
-Super rub a dub will be sued as refence to create my mobile game.
+Super rub a dub will be used as refence to create my mobile game.
+Game Title : 
+
 ## Design
 Gameplay & Mechanics:
 - Gyro to control player
 - Goal is collect all the coins/ objects and then reach the end point.
 - Accelerometer for power ups to remove or temporary disable enemies
+Platform:
+- Android
+
+Deployment platform:
+- Play Store
 
 Theme and art style
 - Low poly
