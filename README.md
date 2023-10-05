@@ -9,25 +9,31 @@ Researching popular mobile games.
 
 # Week 2
 ## Research
-## Game 1: doodle jump
+Game 1: doodle jump
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/f693eff2-70aa-4835-8570-72a57c6fc1f3)
 doodle jump is classic  mobile game, very famous with simple mechanics but very addictive. Requires minimum effort from the user to play it.
 Unfortunatly it doesn't have unique mechaniques that are available only on smartphones.
 Remaking this game with my out twist, it will involve re-designing the gameplay by adding some unique features that benefit from the mobile phone hardware. 
 
-## Game 2: Super rub a dub
+Game 2: Super rub a dub
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6b33162c-eb60-4831-91b1-6237a0d541b4)
-
 Super rub a dub also another popular game but on console, The plader has to use gyroscope to move around and collect objectives.
 A remake will require, a new theme with funny and interactive mechanics to revamp this type of gameplay.
 
-
 # Week 3
-
+Super rub a dub will be sued as refence to create my mobile game.
 ## Design
+Gameplay & Mechanics:
+- Gyro to control player
+- Goal is collect all the coins/ objects and then reach the end point.
+- Accelerometer for power ups to remove or temporary disable enemies
+
+Theme and art style
+- Low poly
+- Fantasy
 
 ## Development
-Start of protyping
+Beginnin of Protyping
 
 ## References
 - https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
