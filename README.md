@@ -45,9 +45,19 @@ Theme and art style
 - Low poly
 - Fantasy
 
+Monetization:
+- Free to play
+- Ads integration with Unity ads
+- Without ads avaialble for 1 single payment + bonuses
+
+ Analytic model:
+ -Unity Analytics
+ -Unity save state
+
 ## Development
 Beginnin of Protyping
 
 ## References
 - https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
 - https://gamedeveloperstudio.itch.io/jet-pack-man
+- https://www.youtube.com/watch?v=XOjd_qU2Ido
