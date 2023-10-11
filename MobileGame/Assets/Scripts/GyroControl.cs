@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class GyroControl : MonoBehaviour
 {
-   // private Quaternion correctionQuaternion;
-    // Start is called before the first frame update
+    private Vector3 gyroRotation;
+    private Vector3 initialRotation;
+
     void Start()
     {
 
@@ -13,7 +14,8 @@ public class GyroControl : MonoBehaviour
         {
             Input.gyro.enabled = true;
             Debug.Log("Gyro Enable");
-            //correctionQuaternion = Quaternion.Euler(90f, 0f, 0f);
+            // Store the initial rotation of the plane
+            initialRotation = transform.rotation.eulerAngles;
         }
     }
 
@@ -21,11 +23,11 @@ public class GyroControl : MonoBehaviour
     void Update()
     {
         if (SystemInfo.supportsGyroscope)
-            transform.rotation = GyroToUnity(Input.gyro.attitude);
-    }
+        {
+            gyroRotation = Input.gyro.rotationRateUnbiased;
 
-    private Quaternion GyroToUnity(Quaternion q)
-    {
-        return new Quaternion(q.x, q.y, -q.z, -q.w);
+            // Apply rotation to the plane only on the X and Z axes
+            transform.Rotate(-gyroRotation.x, 0, -gyroRotation.y);
+        }
     }
 }
