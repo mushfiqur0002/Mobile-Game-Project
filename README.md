@@ -37,7 +37,8 @@ Gameplay & Mechanics:
 - Accelerometer for power ups to remove or temporary disable enemies
 Platform:
 - Android
--Data persistents - arcade mechanics
+-Data persistents 
+- Arcade level menu with unlocking system
 
 Deployment platform:
 - Play Store
@@ -63,3 +64,4 @@ Beginnin of Protyping
 - https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
 - https://gamedeveloperstudio.itch.io/jet-pack-man
 - https://www.youtube.com/watch?v=XOjd_qU2Ido
+- https://www.youtube.com/watch?v=2XQsKNHk1vk
