@@ -37,6 +37,7 @@ Gameplay & Mechanics:
 - Accelerometer for power ups to remove or temporary disable enemies
 Platform:
 - Android
+-Data persistents - arcade mechanics
 
 Deployment platform:
 - Play Store
@@ -53,6 +54,7 @@ Monetization:
  Analytic model:
  -Unity Analytics
  -Unity save state
+
 
 ## Development
 Beginnin of Protyping
