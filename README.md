@@ -1,8 +1,8 @@
 # Mobile Game Project
 
 # Introduction
-For this project, the Rapid Prototyping methodology will be used, to create a quick protype of the game to visualise simple mechainc and features,
-in order to judge the vaiability of the game. 
+For this project, the Rapid Prototyping methodology will be used, to create a quick prototype of the game to visualise simple mechanics and features,
+to judge the variability of the game. 
 
 # Week 1
 Researching popular mobile games. 
@@ -14,30 +14,41 @@ Researching popular mobile games.
 
 
 Game 1: doodle jump
-doodle jump is classic  mobile game, very famous with simple mechanics but very addictive. Requires minimum effort from the user to play it.
-Unfortunatly it doesn't have unique mechaniques that are available only on smartphones.
-Remaking this game with my out twist, it will involve re-designing the gameplay by adding some unique features that benefit from the mobile phone hardware. 
+Doodle Jump is a classic  mobile game, very famous with simple mechanics but very addictive. It requires minimum effort from the user to play it.
+Unfortunately, it doesn't have unique mechanics that are available only on smartphones.
+Remaking this game with my twist will involve re-designing the gameplay by adding some unique features that benefit from the mobile phone hardware. 
 
 
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6b33162c-eb60-4831-91b1-6237a0d541b4)
 
 
-Game 2: Super rub a dub
-Super rub a dub also another popular game but on console, The plader has to use gyroscope to move around and collect objectives.
-A remake will require, a new theme with funny and interactive mechanics to revamp this type of gameplay.
+Game 2: Super Rub a dub
+Super Rub a Dub is also another popular game but on the console, The player has to use a gyroscope to move around and collect objectives.
+A remake will require, a new theme with funny and interactive mechanics to revamp the gameplay.
+
+## Competitors
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6d95922b-4c47-4a3f-8cd5-e85f68bcc7ec)
+Roller Splat is a hyper-casual puzzle game, with an arcade level system. It uses bright colours and simple animation to attract players.
+
+- Free to play 
+- 10M + Installs 
+- PEGI 3 (for everyone)
+- Monetisation ADS
+
+It has 30k plus active users, latest download is 777.
 
 # Week 3
-Super rub a dub will be used as refence to create my mobile game.
+Super Rub a dub will be used as a reference to create my mobile game.
 Game Title : 
 
 ## Design
 Gameplay & Mechanics:
 - Gyro to control player
-- Goal is collect all the coins/ objects and then reach the end point.
-- Accelerometer for power ups to remove or temporary disable enemies
+The goal is to collect all the coins/ objects and then reach the endpoint.
+- Accelerometer for power-ups to remove or temporarily disable enemies
 Platform:
 - Android
--Data persistents 
+-Data persistence 
 - Arcade level menu with unlocking system
 
 Deployment platform:
@@ -50,15 +61,38 @@ Theme and art style
 Monetization:
 - Free to play
 - Ads integration with Unity ads
-- Without ads avaialble for 1 single payment + bonuses
+- Without ads available for 1 single payment + bonuses
 
  Analytic model:
  -Unity Analytics
  -Unity save state
+ 
+# Week 3
+## Begin Prototyping 
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/dea17885-21f1-48ac-8684-3ee569d1eed2)
+This is the first game level, with the sphere as the player and a box scene as the ground, where the player has to move using mobile gyro movement.
+Next is to add more functional, levels and win/lose conditions.
 
+# Week 4
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6dba1a87-c731-45fc-bfb0-9b16e3277457)
+Started adding some assets and features. The player has to collect the " stars as collectables and a counter is displayed on the top.
+More game levels are being added.
+### Level 2
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/84921558-4883-45d2-a624-ced77b0799f4)
+### Level 3
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/fd532913-e057-49e8-a91d-7589cef3187d)
+### Level 4
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/af1419e5-9784-4a0b-abdb-6d51a512d996)
 
-## Development
-Beginnin of Protyping
+### Week 5
+This Week's focus was on the Menu system and its correct function. 
+They should be able to select the game level, play, pause and restart when needed.
+Additionally 
+### Prototype Menu page
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/19ea9552-3341-4318-a517-0d2b8df30f52)
+### Example demo
+https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/e7c27ceb-2654-421b-820e-9a18d3c56932
+
 
 ## References
 - https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
