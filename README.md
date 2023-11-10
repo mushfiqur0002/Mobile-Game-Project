@@ -70,11 +70,13 @@ Monetization:
 # Week 3
 ## Begin Prototyping 
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/dea17885-21f1-48ac-8684-3ee569d1eed2)
+
 This is the first game level, with the sphere as the player and a box scene as the ground, where the player has to move using mobile gyro movement.
 Next is to add more functional, levels and win/lose conditions.
 
 # Week 4
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6dba1a87-c731-45fc-bfb0-9b16e3277457)
+
 Started adding some assets and features. The player has to collect the " stars as collectables and a counter is displayed on the top.
 More game levels are being added.
 ### Level 2
@@ -87,11 +89,30 @@ More game levels are being added.
 ### Week 5
 This Week's focus was on the Menu system and its correct function. 
 They should be able to select the game level, play, pause and restart when needed.
-Additionally 
+Additionally, basic ads were implemented.
 ### Prototype Menu page
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/19ea9552-3341-4318-a517-0d2b8df30f52)
 ### Example demo
 https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/e7c27ceb-2654-421b-820e-9a18d3c56932
+
+# Week 6
+Finalizing gameplay and presentation.
+# Week 7
+Started adding assets in each game level and finalizing the level design.
+### Level 1
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/5df5097b-5e3f-4285-86ae-9e1cd30d950a)
+
+### Level 2
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/883b37f3-6faf-4585-874d-3fcf2ef60279)
+
+### Level 3
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/e84a0055-1d74-4365-8fd6-f6649cf62362)
+
+# Week8
+Further asset and designing on game levels.
+### Level 4
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/9730b4b1-70a6-46bf-bd0d-479659f36b18)
+### level 5
 
 
 ## References
