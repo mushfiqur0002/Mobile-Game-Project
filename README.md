@@ -99,6 +99,8 @@ https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/e7c27ceb-2654-
 Finalizing gameplay and presentation.
 # Week 7
 Started adding assets in each game level and finalizing the level design.
+The aim to use simple low poly assets and bright colours.
+All the assets wehre positined carefully to don't impact the gameplay. The assets are just for aesthetics.
 ### Level 1
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/5df5097b-5e3f-4285-86ae-9e1cd30d950a)
 
@@ -109,10 +111,16 @@ Started adding assets in each game level and finalizing the level design.
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/e84a0055-1d74-4365-8fd6-f6649cf62362)
 
 # Week8
-Further asset and designing on game levels.
+Further asset and designing on game levels. The last 2 level will contain enemeis to increase the difficulty level.
+In these 2 levels the player will have the chance to get power ups.
 ### Level 4
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/9730b4b1-70a6-46bf-bd0d-479659f36b18)
 ### level 5
+
+# Week 9 
+This week focus in on bug fix and improving game mechanics such as:
+- The player has collect all the items in order to move to the next level.
+- Improvement for sphere physics, so it doesn't fall through the ground.
 
 
 ## References
