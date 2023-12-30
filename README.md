@@ -117,7 +117,7 @@ In these 2 levels the player will have the chance to get power ups.
 ### Level 4
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/9730b4b1-70a6-46bf-bd0d-479659f36b18)
 ### level 5
-![Capture](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/57a18845-d2ac-4c90-91c8-5291b12df943)
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/57a18845-d2ac-4c90-91c8-5291b12df943)
 
 
 # Week 9 
