@@ -86,6 +86,7 @@ More game levels are being added.
 ### Level 4
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/af1419e5-9784-4a0b-abdb-6d51a512d996)
 
+
 ### Week 5
 This Week's focus was on the Menu system and its correct function. 
 They should be able to select the game level, play, pause and restart when needed.
@@ -116,6 +117,8 @@ In these 2 levels the player will have the chance to get power ups.
 ### Level 4
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/9730b4b1-70a6-46bf-bd0d-479659f36b18)
 ### level 5
+![Capture](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/57a18845-d2ac-4c90-91c8-5291b12df943)
+
 
 # Week 9 
 This week focus in on bug fix and improving game mechanics such as:
