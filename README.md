@@ -1,9 +1,19 @@
 # Mobile Game Project
 
+# Useful links
+
+## Github 
+- https://gitea.com/rahman0002/Mobile_game.git
+## Google Play Store link
+- https://play.google.com/store/apps/details?id=com.TeamOf7.RollYourWay&pcampaignid=web_share
+## Itch.io link
+- https://aantox.itch.io/rollyourway
+
+
 # Introduction
 For this project, the Rapid Prototyping methodology will be used, to create a quick prototype of the game to visualise simple mechanics and features,
-to judge the viability of the game.
-In the second interaction, the game will be further refined and then published on the Google Play store.
+to judge the variability of the game.
+In the second iteration, the game will be further refined and then published on the Google Play store.
 
 # Week 1
 In the first week, the focus was researching popular mobile games to get some inspiration. The genres targeted were Hyper Casual and puzzle.
@@ -19,7 +29,7 @@ In the second week, the focus shifted from new games to old games, where I was a
 Game 1: doodle jump
 Doodle Jump is a classic  mobile game, very famous with simple mechanics but very addictive. Requires minimum effort from the user to play it.
 Unfortunately, it doesn't have unique mechanisms that are available only on smartphones.
-Remaking this game with my own twist will involve re-designing the gameplay by adding some unique features that benefit from the mobile phone hardware. 
+Remaking this game with my own twist, it will involve re-designing the gameplay by adding some unique features that benefit from the mobile phone hardware. 
 
 
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/6b33162c-eb60-4831-91b1-6237a0d541b4)
@@ -45,7 +55,7 @@ After considering the pros and cons of remaking one of the mentioned games.
 I decided to create my original version of Super Rub a dub.
 The existing game has decent mechanics, but it’s not appealing enough and advanced enough to benefit from modern smartphone hardware.
 
-In the second week, I also started setting up the project on Unity for mobile game development.
+On the second week, I also started setting up the project on Unity for mobile game development.
 
 # Week 3
 
@@ -58,7 +68,7 @@ The object is to collect all the collectables and reach the finish point to move
 Gameplay & Mechanics:
 
 - Gyro to control player
-- The goal is to collect all the collectables and objects and then reach the endpoint.
+- The goal is to collect all the collectables and objects and then reach the end point.
 - Vibration for UI and in-game for gameplay feedback from collectables.
 
 Platform:
@@ -89,8 +99,8 @@ Monetization:
 
 
 Week 4 is the beginning of Prototyping.
-This week's focus was the following:
-- Create a quick scene to test gyro control on a simple sphere on a flat plane. 
+This week's focus were the following:
+- Create a quick scene to test gyro control with a simple sphere on a flat plane. 
 - Test collectable mechanics and display the amount on the screen
 
 The player has to collect the " stars as collectables and a counter is displayed on the top.
@@ -134,7 +144,7 @@ This week's objective, start adding assets in each game level and finalizing the
 The aim is to use simple low poly assets and bright colours to make each game level more appealing.
 
 Each game level will be different, and it will progressively get darker as the difficulty increases.
-The original idea was to have a very friendly and green environment at the beginning and at each level it will decrease, as the enemy starts to appear further in the levels.
+The original idea was to have a very friendly and green environment at the beginning, then each level it will decrease, as the enemy starts to appear further in the levels.
 
 All the assets were positioned carefully to not impact the gameplay. The assets are just for aesthetics.
 
@@ -177,7 +187,7 @@ Some improvement has been made for the physics, some occasions the sphere still 
 # Week 10
 Testing with particle and trail renderer.
 Currently, the trail renderer is not functioning properly when moving from one level to another further testing is needed.
-Particle will enhance the visual of the game when collecting objects, currently testing some default effects that unity provides.
+Particle will enhance the visual of the game when collecting objects, currently testing some default effects that Unity provides.
 
 
 # Week 11
@@ -222,16 +232,26 @@ This applies to every level.
 
 
 # Week 13 
-After testing with a few devices, the application is ready to be released on the Google Play Store.
+After testing with a few devices, the application is ready to be released on Google Play Store.
 This objective is to set up the game and load the aab file to the Google Play console for review and then publication.
 
 ![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/59d8355c-6e80-4631-97c2-2dece348382e)
 
-The game is uploaded and waiting for review.
+The game uploaded waiting for review.
+
+
+## Week 14
+The game is online and available on Google Play Store.
+![image](https://github.com/rahman0002/Mobile-Game-Project/assets/91261400/9d001c45-5c89-4777-b24f-14ac415181d3)
+
+Link: https://play.google.com/store/apps/details?id=com.TeamOf7.RollYourWay&pcampaignid=web_share
+
+The app has been tested on multiple devices, and the app functions as intended.
+if the phone has a gyro sensor, the user will able to play without any problem. In case the phone doesn't have a gyro sensor, the will open and load the game level but the user will not be able to play.
+
 
 ## References
-- https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
-- https://gamedeveloperstudio.itch.io/jet-pack-man
-- https://www.youtube.com/watch?v=XOjd_qU2Ido
-- https://www.freepik.com/free-vector/button-set-designed-game-user-interface-gui-illustration-video-games-computers_17631634.htm#query=game%20level%20select%20ui&position=20&from_view=search&track=ais&uuid=9d9e9c0e-da22-4f8c-8eac-2cdbd7f3b5b6
-- https://www.youtube.com/watch?v=G-JUp8AMEx0
+- Brackeys. (December 2018). SAVE & LOAD SYSTEM in Unity. [Online]. Youtube. Available at: https://www.youtube.com/watch?v=XOjd_qU2Ido [Accessed  November 2023].
+- jcomp. (n.d.). Button set designed game user interface GUI illustration for video game computers. [Online]. freepik. Available at: https://www.freepik.com/free-vector/button-set-designed-game-user-interface-gui-illustration-video-games-computers_17631634.htm [Accessed 2 December 2023].
+- Rehope Games. (March 2023). Unity AUDIO Volume Settings Menu Tutorial. [Online]. Youtube. Available at: https://www.youtube.com/watch?v=G-JUp8AMEx0 [Accessed 10 December 2023].
+- Rehope Games. (May 2023). Create LEVEL MENU in Unity: UI Design & Level Locking/Unlocking System!. [Online]. Youtube. Available at: https://www.youtube.com/watch?v=2XQsKNHk1vk [Accessed 3 October 2023].
