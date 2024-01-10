@@ -14,13 +14,6 @@
 ## OneDrive link assets and codes
 - https://mailbcuac-my.sharepoint.com/:u:/g/personal/mushfiqur_rahman_mail_bcu_ac_uk/ERH3wFBxQDlIltjvo4GXCsEBGIY0UdKbVYIQ3H7PSA6KZw
 
-# File Structure
-- /bin - Contains APK executable for android devices.
-- /video - Contains gameplay footage and video narration.
-- Ondrive Link for assets & code.text - Shared link to download code.zip file.
-- README.md - Contains useful information and documentation.
-
-
 # Introduction
 For this project, the Rapid Prototyping methodology will be used, to create a quick prototype of the game to visualise simple mechanics and features,
 to judge the variability of the game.
