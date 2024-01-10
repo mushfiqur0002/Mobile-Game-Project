@@ -11,6 +11,15 @@
 ## Itch.io link
 - https://aantox.itch.io/rollyourway
 
+## OneDrive link assets and codes
+- https://mailbcuac-my.sharepoint.com/:u:/g/personal/mushfiqur_rahman_mail_bcu_ac_uk/ERH3wFBxQDlIltjvo4GXCsEBGIY0UdKbVYIQ3H7PSA6KZw
+
+# File Structure
+- /bin - Contains APK executable for android devices.
+- /video - Contains gameplay footage and video narration.
+- Ondrive Link for assets & code.text - Shared link to download code.zip file.
+- README.md - Contains useful information and documentation.
+
 
 # Introduction
 For this project, the Rapid Prototyping methodology will be used, to create a quick prototype of the game to visualise simple mechanics and features,
@@ -253,7 +262,10 @@ if the phone has a gyro sensor, the user will able to play without any problem. 
 
 
 ## References
-- Brackeys. (December 2018). SAVE & LOAD SYSTEM in Unity. [Online]. Youtube. Available at: https://www.youtube.com/watch?v=XOjd_qU2Ido [Accessed  November 2023].
+- CandyCoded. (2021).HapticFeedback. [Online].github.Available at: https://github.com/CandyCoded/HapticFeedback [Accessed 14 December 2023].
+- 3d.rina. (July 2019). Handpainted Turntable Platforms. [Online]. Unity asset store. Available at: https://assetstore.unity.com/packages/3d/props/handpainted-turntable-platforms-66599 [Accessed 22 November 2023].
+- Unvik_3D. (2022). AshMoor - Lowpoly Environment. [Online]. Unity asset store. Available at: https://assetstore.unity.com/packages/3d/environments/landscapes/ashmoor-lowpoly-environment-by-unvi [Accessed 15 November 2023].
 - jcomp. (n.d.). Button set designed game user interface GUI illustration for video game computers. [Online]. freepik. Available at: https://www.freepik.com/free-vector/button-set-designed-game-user-interface-gui-illustration-video-games-computers_17631634.htm [Accessed 2 December 2023].
+- JustCreate. (2020). Low-Poly Simple Nature Pack. [Online]. Unity asset store. Available at: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153 [Accessed 6 November 2024].
 - Rehope Games. (March 2023). Unity AUDIO Volume Settings Menu Tutorial. [Online]. Youtube. Available at: https://www.youtube.com/watch?v=G-JUp8AMEx0 [Accessed 10 December 2023].
 - Rehope Games. (May 2023). Create LEVEL MENU in Unity: UI Design & Level Locking/Unlocking System!. [Online]. Youtube. Available at: https://www.youtube.com/watch?v=2XQsKNHk1vk [Accessed 3 October 2023].
